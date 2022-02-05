@@ -1,6 +1,6 @@
 .rodape {
-    background: #bfbfbf;
-    color: #fdfdfd;
+    background: var(--silver);
+    color: var(--white);
     font-size: 2rem;
     padding: 1.5625rem 5rem;
     text-align: right;

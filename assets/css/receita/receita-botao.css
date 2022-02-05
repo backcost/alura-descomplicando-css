@@ -1,5 +1,5 @@
 .receita__botao {
-    background: #8d0606;
+    background: var(--totem-pole);
     border: none;
     border-radius: 5px;
     color: #fdfdfd;
@@ -8,6 +8,6 @@
 }
 
 .receita__botao:hover {
-    background: #620404;
+    background: var(--red-oxide);
     cursor: pointer;
 }

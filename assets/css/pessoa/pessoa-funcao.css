@@ -1,5 +1,5 @@
 .pessoa__funcao {
-    color: #595959;
+    color: var(--scorpion);
     font-size: 1.25rem;
     text-transform: lowercase;
 }
